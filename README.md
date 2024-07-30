@@ -1,7 +1,3 @@
-Sure! Here’s a sample README content for your GitHub repository named `Login-Page-Gym`, which contains CSS and HTML code for a gym login page:
-
----
-
 # Login-Page-Gym
 
 Welcome to the **Login-Page-Gym** repository! This repository contains the HTML and CSS code for a gym login page. The goal of this project is to provide a clean and functional login page design that can be used for gym management systems or fitness applications.
@@ -23,7 +19,7 @@ To get started with the repository:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/Login-Page-Gym.git
+   git clone https://github.com/aanchaltailwal/Login-Page-Gym
    ```
 
 2. **Navigate to the Directory:**
